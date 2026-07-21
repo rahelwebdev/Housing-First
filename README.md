@@ -1,2 +1,3 @@
 # Housing-First
 The project is an example of what a Housing First web page in a city could look like. The project also intends to provide some information on the concept of housing first, which was developed to end homelessness. 
+Housing First projects have been very successful in drastically reducing homelessness and reintegrating homeless people into society and even into the workforce. The idea is, that people are provided with safe housing first, before other issues like addiction or mental health issues are addressed. Having a safe place to sleep and relax helps people to address the other issues in their lives. 
